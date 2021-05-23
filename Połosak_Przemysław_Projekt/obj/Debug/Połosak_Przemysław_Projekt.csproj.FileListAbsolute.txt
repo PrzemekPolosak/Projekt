@@ -1,0 +1,9 @@
+C:\Users\Przemek\Desktop\jipp projekt\Połosak_Przemysław_Projekt\Połosak_Przemysław_Projekt\bin\Debug\Połosak_Przemysław_Projekt.exe.config
+C:\Users\Przemek\Desktop\jipp projekt\Połosak_Przemysław_Projekt\Połosak_Przemysław_Projekt\bin\Debug\Połosak_Przemysław_Projekt.exe
+C:\Users\Przemek\Desktop\jipp projekt\Połosak_Przemysław_Projekt\Połosak_Przemysław_Projekt\bin\Debug\Połosak_Przemysław_Projekt.pdb
+C:\Users\Przemek\Desktop\jipp projekt\Połosak_Przemysław_Projekt\Połosak_Przemysław_Projekt\obj\Debug\Połosak_Przemysław_Projekt.csprojAssemblyReference.cache
+C:\Users\Przemek\Desktop\jipp projekt\Połosak_Przemysław_Projekt\Połosak_Przemysław_Projekt\obj\Debug\Połosak_Przemysław_Projekt.exe
+C:\Users\Przemek\Desktop\jipp projekt\Połosak_Przemysław_Projekt\Połosak_Przemysław_Projekt\obj\Debug\Połosak_Przemysław_Projekt.pdb
+C:\Users\Przemek\Desktop\jipp projekt\Połosak_Przemysław_Projekt\Połosak_Przemysław_Projekt\bin\Debug\Biblioteka.dll
+C:\Users\Przemek\Desktop\jipp projekt\Połosak_Przemysław_Projekt\Połosak_Przemysław_Projekt\bin\Debug\Biblioteka.pdb
+C:\Users\Przemek\Desktop\jipp projekt\Połosak_Przemysław_Projekt\Połosak_Przemysław_Projekt\obj\Debug\Połosak_Przemysław_Projekt.csproj.CopyComplete
